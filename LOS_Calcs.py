@@ -32,7 +32,7 @@ import pyagn.sed # get sed class file
 from pyagn.sed import SED # get SED function from sed file
 
 # import constants and pre-defined functions
-from FunkyParms_Phase2 import *
+from Initial_Parms import *
 
 ## OTHER INITIAL PARAMETERS ------------------------------------------------------------------------------------------------------------------------------------------
 Mbh_g = Mbh*xMsun # black hole mass in g
